@@ -55,3 +55,5 @@ case based learning
 
 ==PENDAPAT PRIBADI DAY 1 PROYEK WORKSHOP==
 Menurut saya, kegiatan Day 1 Proyek Workshop ini sangat bermanfaat dan memberikan wawasan praktis yang nyata, khususnya dalam memahami langkah-langkah instalasi Git serta cara mengonfigurasi identitas perangkat secara benar. Penyampaian materi disampaikan secara runtut dan mudah dipahami, sehingga membantu saya mengerti pentingnya alat pengontrol versi (version control) dan penggunaan GitHub untuk kolaborasi proyek ke depannya.
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/85c4a889-ae57-4de8-a588-e61624b92e4d" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/ab058b88-93ae-48bb-8ccd-3c7678ba0aa8" />
